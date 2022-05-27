@@ -1,4 +1,4 @@
-<h1 align='center'>React Github Repo Cards</h1>
+<h1 align='center'>Dev-profile-app</h1>
 
 <p align="center">
 This application is built to provide developers a platform to showcase their projects and CP profiles and share these for easier visibility.
