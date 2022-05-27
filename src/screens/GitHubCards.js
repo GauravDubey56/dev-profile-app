@@ -13,8 +13,6 @@ class GitHubCards extends Component {
   
   async componentDidMount() {
     console.log(this.props)
-    const api_key = "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";
-    console.log(api_key)
     let repos = await Axios.get(
       `https://api.github.com/users/${this.props.username}/repos`,
     );
